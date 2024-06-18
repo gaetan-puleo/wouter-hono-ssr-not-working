@@ -1,0 +1,15 @@
+{
+  "name": "hono-wouter-ssr-demo",
+  "scripts": {
+    "dev": "tsx watch src/index.tsx"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.11.3",
+    "hono": "^4.4.6",
+    "wouter-hono": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "tsx": "^4.7.1"
+  }
+}
